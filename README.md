@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gravelino
 - 👀 I’m interested in backend in c#
-- 🌱 I’m currently learning oop.
+- 🌱 I’m currently learning asp.net.
 <!-- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me Telegram: @Gravelino.
 
